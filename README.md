@@ -11,3 +11,6 @@
 
 ![image](https://user-images.githubusercontent.com/117330115/211284459-ee3bfcc0-4a83-4813-808d-549014d9f559.png)
 ^ one of the time blocks green means its in the futre red means it's in the present and currently going on, grey means it's in the past. The blue icon is the save button each time block gets its own save button.
+
+https://itshaso.github.io/day-planner/
+^ A link to my deployed website.
